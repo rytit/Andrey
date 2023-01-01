@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/umka317/Andrey#readme",
   "devDependencies": {
-    "webpack": "^4.35.0"
+    "webpack": "^5.75.0"
   }
 }
